@@ -1,4 +1,4 @@
-# MikroTik Pakasir Payment Gateway
+# MikroTik Payment Gateway
 <img src="media/pakasir.png" width="200" alt="Pakasir Logo" align="right"/>
 
 Payment Gateway MikroTik Dengan Integrasi API Pakasir
