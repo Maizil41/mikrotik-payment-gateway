@@ -1,7 +1,7 @@
 # MikroTik Payment Gateway
-<img src="media/pakasir.png" width="200" alt="Pakasir Logo" align="right"/>
+<img src="media/logo.png" width="200" alt="Pakasir Logo" align="right"/>
 
-Payment Gateway MikroTik Dengan Integrasi API Pakasir
+Payment Gateway MikroTik Integrasi dengan Gopay Dan Qiospay
 
 <a href="https://github.com/maizil41/mikrotik-pakasir-payment"><img src="https://img.shields.io/github/languages/code-size/maizil41/mikrotik-pakasir-payment" alt="GitHub Code Size"></a>
 <a href="https://github.com/maizil41/mikrotik-pakasir-payment"><img src="https://img.shields.io/github/license/maizil41/mikrotik-pakasir-payment" alt="GitHub License"></a>
