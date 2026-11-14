@@ -1,5 +1,5 @@
 # MikroTik Payment Gateway
-<img src="media/logo.png" width="200" alt="Logo" align="right"/>
+<img src="logo.png" width="200" alt="Logo" align="right"/>
 
 Payment Gateway MikroTik Integrasi dengan Gopay Dan Qiospay
 
