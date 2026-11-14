@@ -1,5 +1,5 @@
 # MikroTik Payment Gateway
-<img src="logo.png" width="500" alt="Logo" align="right"/>
+<img src="logo.png" width="300" alt="Logo" align="right"/>
 
 Payment Gateway MikroTik Integrasi dengan Gopay Dan Qiospay
 
@@ -8,6 +8,8 @@ Payment Gateway MikroTik Integrasi dengan Gopay Dan Qiospay
 <a href="https://github.com/maizil41/mikrotik-pakasir-payment"><img src="https://img.shields.io/github/stars/maizil41/mikrotik-pakasir-payment" alt="GitHub Stars"></a>
 <a href="https://github.com/maizil41/mikrotik-pakasir-payment"><img src="https://img.shields.io/github/forks/maizil41/mikrotik-pakasir-payment" alt="GitHub Forks"></a>
 <a href="https://github.com/maizil41/mikrotik-pakasir-payment"><img src="https://img.shields.io/github/watchers/maizil41/mikrotik-pakasir-payment" alt="GitHub Watchers"></a>
+
+<br/>
 
 ## 📦 Depedensi
 
